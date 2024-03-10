@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+Satark App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Demo Video Link:
 
-## Available Scripts
+Objective
 
-In the project directory, you can run:
+Satark aims to develop a comprehensive mobile application using ReactJS and Tailwind CSS for the frontend, Firebase for the real-time database and backend, and Java for the Android app. The primary goal is to predict, alert, and support users during natural disasters, ensuring user safety through timely alerts, real-time updates, and active participation in relief efforts.
+Features
+1. Early Warning System
 
-### `npm start`
+Implement a robust disaster warning system in ReactJS and Tailwind CSS for the web version and Java for the Android app. This system notifies users when a natural disaster is nearby, enabling proactive safety measures.
+2. Government Portal
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Build a secure government portal using ReactJS, Tailwind CSS, and Firebase for authorized officials to provide official updates and warnings, ensuring accurate information dissemination.
+3. Real-time Rescue Operation Updates
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Provide users with real-time updates on ongoing rescue operations, evacuation procedures, and emergency services using ReactJS, Tailwind CSS, and Firebase real-time database for the web version and Java for the Android app, enhancing situational awareness.
+4. SOS Functionality
 
-### `npm test`
+Include an SOS feature using ReactJS, Tailwind CSS, and Firebase for the web version, and Java for the Android app. This functionality enables users to send distress signals quickly, notifying emergency contacts, local authorities, and nearby app users for immediate assistance.
+5. Relief Fund Donations
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Facilitate a seamless and secure donation process within the app using ReactJS, Tailwind CSS, and Firebase real-time database for the web version, and Java for the Android app. Allow users to contribute to relief funds, with transparency features showcasing the impact of donations.
+6. Community Collaboration
 
-### `npm run build`
+Integrate features encouraging community collaboration for better disaster preparedness, such as forums, group chats, and collaborative initiatives, using ReactJS, Tailwind CSS, and Firebase real-time database.
+7. Progress/Activity Tracking
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Enable users to track fund utilization and planned future activities for transparency and accountability using ReactJS, Tailwind CSS, and Firebase real-time database.
+8. Crowdfunding Facility
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Provide a crowdfunding feature for users interested in organizing philanthropic events during natural disasters, promoting community-driven initiatives, implemented in ReactJS, Tailwind CSS, and Firebase real-time database.
